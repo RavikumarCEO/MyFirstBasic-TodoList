@@ -8,3 +8,8 @@ https://ravikumarceo.github.io/MyFirstBasic-TodoList/
 - HTML
 - CSS
 - JavaScript
+
+- ## Features
+- Add tasks
+- Remove tasks
+- Empty input validation

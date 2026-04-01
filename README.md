@@ -12,4 +12,4 @@ https://ravikumarceo.github.io/MyFirstBasic-TodoList/
 - ## Features
 - Add tasks
 - Remove tasks
-- Empty input validation
+
